@@ -2,3 +2,4 @@
 commands are listed
 ls
 pwd
+cd
